@@ -4,6 +4,8 @@ I used Amazon Prime due to its accessibility without requiring a login. Converse
 
 Utilizing the Crawl-E Framework, I encountered limitations due to its Cheerio base, particularly in its inability to handle infinite scrolling. For Amazon, where certain categories exceed 20 products, implementing infinite scrolling becomes impossible. However, I successfully addressed this challenge by adjusting parameters within the URL, particularly within the parent category where all subcategories and genres of movies and TV series were accessible.
 
+At a same point i started to get blocked with captcha.
+
 # How to install project locally
 ## How to install packages
 
