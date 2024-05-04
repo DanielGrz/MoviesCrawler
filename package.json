@@ -1,0 +1,14 @@
+{
+    "name": "task2",
+    "version": "0.0.1",
+    "author": "Daniel Grz.",
+    "license": "ISC",
+    "description": "Package json for task2",
+    "dependencies": {
+        "crawl-e/v0.6.5": "http://www.bitbucket.org/ishowtimes/crawl-e.git#v0.6.5",
+        "formidable": "v3"
+    },
+    "scripts":{
+        "app": "node crawler.js"
+    }
+}
